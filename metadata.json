@@ -1,0 +1,8 @@
+{
+  "name": "DeadlineSync",
+  "description": "Assignment deadline aggregator for Indian college students with Hinglish AI extraction, PDF notice parsing, smart duplicate merging, and a unified IST calendar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
